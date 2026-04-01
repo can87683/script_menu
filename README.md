@@ -11,7 +11,7 @@ This script can be run in a Python venv with required dependencies
 
 Do "python mt5_connector.py will show required wheels in terminal
 
-For instalnce, just do "pip install MetaTrader5" if crashes on "no module named MetaTrader5"
+For instalnce, just do "pip install setproctitle" if crashes on "no module named setproctitle"
 
 Each venv of python verions may have different requirements.
 
